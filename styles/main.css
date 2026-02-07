@@ -1,0 +1,12 @@
+.camouflage {
+    background-color: #4e5452;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAB9CAIAAAO+P1YcAAAAA3NCSVQICAjb4YJRAAAACXBIWXMAAB7CAAAewgFu0HU+AAABhElEQVRIDbXQQQkAIAgEMWZ/j9b6+KOpK+XMAcbJCOFV49vFNO56jOVIW0UotjgtQwEAAAIAAPp1HV0jAAAAABJRU5ErkJggg==');
+    font-family: 'Prompt', sans-serif;
+    color: #ffffff;
+    padding: 10px;
+    border: 1px solid #2c2f2f;
+}
+
+.h2 {
+    color: #2c2f2f;
+}
